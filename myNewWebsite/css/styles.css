@@ -1,0 +1,98 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-width: 10px;
+    width: 50px;
+    color: #EAF6F6;
+}
+
+h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Pacifico', cursive;
+    font-size: 4.625rem;
+    color: #66BFBF;
+    line-height: 2;
+
+}
+
+p{
+    font-size: 2rem;
+    color: #1f4068;
+    font-weight: normal;
+}
+h2{
+    font-size: 4.625rem;
+    color: #66BFBF;
+}
+
+h3{
+    color: #66BFBF;
+}
+
+.top-container{
+    background-color: #ebecf1;
+    padding:30px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.middle-container{
+    padding-top: 10px;
+}
+.bottom-container a{
+    color: #1f4068;
+}
+
+
+
+.top-imageContainer{
+    position: relative;
+    left: 400px;
+}
+
+.middle-imageContainer{
+    position: absolute;
+}
+
+.profile h2{
+    font-family: 'Pacifico', cursive;   
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-image{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-image2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.description1{
+     clear: left;
+}
+.description2{
+    clear: right;
+}
+
+.bottom-container{
+    background-color: #ebecf1;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 0px;
+}
+
